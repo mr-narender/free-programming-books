@@ -181,6 +181,7 @@
 
 * [Go Playground](https://play.golang.org)
 * [Go-Vim](https://go-vim.appspot.com)
+* [Online Go Compiler](https://coddy.tech/playground/golang) - Coddy
 * [SoloLearn](https://code.sololearn.com/go)
 
 
@@ -242,7 +243,6 @@
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
-* [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JavaScript Online Compiler](https://www.programiz.com/javascript/online-compiler) - Programiz
 * [JSBin](https://jsbin.com)
@@ -298,7 +298,6 @@
 
 ### NodeJS
 
-* [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
 * [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
@@ -327,6 +326,7 @@
 
 ### Python
 
+* [BugBot Lab](https://app.bugbotlab.com) - BugBotLab
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
 * [Online Python](https://www.online-python.com)
@@ -336,10 +336,9 @@
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Playground](https://programiz.pro/ide/python) - Programiz PRO
-* [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
-* [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
+* [Pyxel Code Maker](https://kitao.github.io/pyxel/web/code-maker/) - Takashi Kitao
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
 
@@ -355,7 +354,6 @@
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
-* [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
 * [PlayCode](https://playcode.io/react)
 * [StackBlitz](https://stackblitz.com/fork/react)
@@ -391,6 +389,7 @@
 ### Rust
 
 * [Codapi](https://codapi.org/rust)
+* [Online Rust Compiler](https://coddy.tech/playground/rust) - Coddy
 * [Rust Explorer](https://www.rustexplorer.com)
 * [Rust Playground](https://play.rust-lang.org)
 * [Rustfinity](https://www.rustfinity.com/playground)
@@ -444,6 +443,7 @@
 
 ### TypeScript
 
+* [Online TypeScript Compiler](https://coddy.tech/playground/typescript) - Coddy
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 * [TypeScript: TS Playground](https://www.typescriptlang.org/play)
