@@ -176,6 +176,7 @@
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
+* [Spec-Driven Development: O Guia Definitivo para Construir Software com Agentes de IA](https://github.com/felipefontoura/spec-driven-development-book/blob/main/BOOK.pt-BR.md) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
 
 
 #### Arquitetura de Software
@@ -379,7 +380,7 @@
 
 ### Lisp
 
-* [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
+* [Introdução a linguagem LISP](https://web.archive.org/web/20250321161507/https://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML) *( :card_file_box: archived)*
 * [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/) - José Augusto N. G. Manzano (PDF)
 
 
